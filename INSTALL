@@ -1,0 +1,9 @@
+Building Koruna
+
+See doc/readme-qt.rst for instructions on building Koruna-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Koruna.
+
+See doc/build-*.txt for instructions on building korunad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Koruna.
